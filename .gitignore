@@ -1,0 +1,13 @@
+# Compiled Java files
+*.class
+
+# VS Code
+.vscode/
+
+# Generated reports
+students_report.csv
+student_database_backup.sql
+
+# OS files
+Thumbs.db
+.DS_Store
